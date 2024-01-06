@@ -1,7 +1,7 @@
 # Programmers 문제
 - 문제 출처 :  https://school.programmers.co.kr/learn/challenges?order=recent&page=1&languages=python3&levels=0%2C1%2C2%2C3%2C4%2C5
   
-## Lv 0
+## Lv 0 basics
 ### < Lv0_1 > 2023-07-17
 - 문자열 겹쳐쓰기
 - 문자열 섞기
@@ -156,6 +156,13 @@
 - 조건에 맞게 수열 변환하기 3
 - l로 만들기
 - 특별한 이차원 배열 1
+
+### < Lv0_23 > 2024-01-06
+- 정수를 나선형으로 배치하기
+- 특별한 이차원 배열 2
+- 정사각형으로 만들기
+- 이차원 배열 대각선 순회하기
+
 
 ### < Lv0_ > 2024-00-00
 - 
